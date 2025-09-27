@@ -1,8 +1,8 @@
 # Logistic Regression Binary Classifier
 
 ## Dataset
-**Name:** Breast Cancer Wisconsin (Diagnostic) Dataset
-**Source:** (https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+- **Name:** Breast Cancer Wisconsin (Diagnostic) Dataset
+- **Source:** (https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ---
 
